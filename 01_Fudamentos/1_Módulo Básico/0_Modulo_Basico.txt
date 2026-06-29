@@ -1,0 +1,12 @@
+
+
+Indice:
+
+1)Introducao_ao_bat
+2)Variaveis_de_Ambiente
+3)Declarando_Variaveis (SET)
+4)Logica_Condicional (IF)
+5)Lacos_de_Repeticao (FOR)
+6)Comando ATTRIB (Controle de Atributos)
+7)Arquitetura_Modular (CALL, GOTO)
+8)ERRORLEVEL
